@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YBG\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+      "projectUniqueName": "C:\\Users\\YBG\\Documents\\GitHub\\Csharp_Programing\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
       "projectName": "StudentManagement",
-      "projectPath": "C:\\Users\\YBG\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+      "projectPath": "C:\\Users\\YBG\\Documents\\GitHub\\Csharp_Programing\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
       "packagesPath": "C:\\Users\\YBG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YBG\\source\\repos\\StudentManagement\\StudentManagement\\obj\\",
+      "outputPath": "C:\\Users\\YBG\\Documents\\GitHub\\Csharp_Programing\\StudentManagement\\StudentManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YBG\\AppData\\Roaming\\NuGet\\NuGet.Config",
